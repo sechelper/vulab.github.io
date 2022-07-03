@@ -26,6 +26,6 @@ vulab漏洞实验室是一个高度可定制漏洞靶场，在这里使用几行
 
 未来`vulab漏洞实验室`会增加大量丰富的漏洞靶机，技术探讨交流扫描下方二维码。
 
-![加入群聊二维码](img/qrcode-vulab.png)
+<div align="center">![加入群聊二维码](img/qrcode-vulab.png)</div>
 
 <center><strong>vulab-漏洞实验室</strong></center>
