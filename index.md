@@ -18,7 +18,7 @@ vulab/vulab
 
 **加入交流群，定期讲解公开课：**
 
-![狗头君师企微](https://static.sechelper.com/img/qrcode/qrcode_kun.jpg)
+![狗头君师企微]([https://static.sechelper.com/img/qrcode/vulab-kun.png])
 
 助安社区正努力丰富漏洞靶机，包括以下漏洞：
 
